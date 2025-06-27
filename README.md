@@ -1,16 +1,37 @@
-## Hi there 👋
+## <p align="center"> GoblinStack Works </p>
 
-<!--
-**GoblinStack/GoblinStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+💡 **GoblinStack Works** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Sediada em Belo Horizonte - MG - Brasil, atendemos clientes de diversos setores com foco em excelência técnica e experiência do usuário.
+
+---
+
+### 🛠️ Tecnologias que usamos
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,nestjs,postgres,mongodb,firebase" />
+  </a>
+</p>
+
+---
+
+### 💻 O que fazemos
+
+- Aplicativos móveis para Android e iOS
+- Sistemas e aplicações web interativas
+- Sites e lojas virtuais
+- Soluções digitais personalizadas de ponta a ponta
+- UX/UI Design com foco na experiência do usuário
+
+🎯 Criamos soluções digitais que funcionam, impressionam e fazem a diferença. Simples assim.
+
+---
+
+### 📫 Entre em contato
+
+- 📧 goblinstackworks@gmail.com  
+- 📧 goblinstackworks@outlook.com  
+- 🌐 https://goblinstackworks.com
