@@ -1,10 +1,10 @@
-## <p align="center"> GoblinStack Works </p>
+# <p align="center">🍀💚 GoblinStack Works 💚🍀</p>
 
 <br>
 
-💡 **GoblinStack Works** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
+✅ **GoblinStack Works** é uma empresa de desenvolvimento de software dedicada à criação de soluções digitais inovadoras, funcionais e personalizadas.
 
-📍 Sediada em Belo Horizonte - MG - Brasil, atendemos clientes de diversos setores com foco em excelência técnica e experiência do usuário.
+🌍 Sediada em Belo Horizonte - MG - Brasil, atendemos clientes de diversos setores com foco em excelência técnica e experiência do usuário.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📫 Entre em contato
+### 💬 Entre em contato
 
 - 📧 goblinstackworks@gmail.com  
 - 📧 goblinstackworks@outlook.com  
