@@ -1,4 +1,7 @@
 # <p align="center">🍀💚 GoblinStack Works 💚🍀</p>
+<p align="center">
+  <img src="https://github.com/GoblinStack/GoblinStack/blob/main/goblin.gif"/>
+</p>
 
 <br>
 
