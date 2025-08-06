@@ -29,7 +29,7 @@
 - Soluções digitais personalizadas de ponta a ponta
 - UX/UI Design com foco na experiência do usuário
 
-🎯 Criamos soluções digitais que funcionam, impressionam e fazem a diferença. Simples assim.
+🎯 Criamos soluções digitais que funcionam. Simples assim.
 
 ---
 
